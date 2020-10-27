@@ -38,7 +38,7 @@ export class Directory extends Component<DirectoryProps, DirectoryState> {
                     title: 'sneakers',
                     imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
                     id: 3,
-                    size: 'large',
+                    size: 'small',
                 },
                 {
                     title: 'womens',
